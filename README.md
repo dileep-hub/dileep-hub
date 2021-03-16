@@ -1,5 +1,5 @@
 ### Hi < techie..! > 👋 , Dileep here...
-<img src='Coding-bro.png'>
+
 <img src="Coding-bro.png"  width="800" height="600">
 
 - 🔭 I’m currently working on Emerging Technologies [cloud-Devops-ML-DL-AI-BigData]

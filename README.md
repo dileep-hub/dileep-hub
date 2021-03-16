@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Devops + cloud + DL
 - 👯 I’m looking to collaborate on open source contribution
 - 💬 Ask me about Anything
-- 📫 How to reach me:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Love to learn new Things ND sharing.
+- 📫 How to reach me: ....[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/dileep-kumar-a16b691a9/) 
 

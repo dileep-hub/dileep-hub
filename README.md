@@ -1,7 +1,5 @@
-### Hi < techie..! > 👋 , Dileep here...
+### Hi < techie..! > <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , Dileep here...
 <img src="Coding-bro.png"  width="700" height="550">
-
-<img width="240" height="230" align='right' src="Coding-bro.png"> 
 
 
 - 🔭 I’m currently working on Emerging Technologies [cloud-Devops-ML-DL-AI-BigData]

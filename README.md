@@ -1,5 +1,9 @@
 ### Hi < techie..! > 👋 , Dileep here...
 <img src="Coding-bro.png"  width="700" height="550">
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="Coding-bro.png"> 
+</p>
 
 - 🔭 I’m currently working on Emerging Technologies [cloud-Devops-ML-DL-AI-BigData]
 - 🌱 I’m currently learning Devops + cloud + DL

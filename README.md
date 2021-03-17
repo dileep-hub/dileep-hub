@@ -2,7 +2,7 @@
 <img src="Coding-bro.png"  width="700" height="550">
 
 
-- 🔭 I’m currently working on Emerging Technologies [cloud-Devops-ML-DL-AI-BigData]
+- 🔭 I’m currently working on Emerging Tools & Technologies [cloud-Devops-ML-DL-AI-BigData]
 - 🌱 I’m currently learning Devops + cloud + DL
 - 👯 I’m looking to collaborate on open source contribution
 - 💬 Ask me about Anything
